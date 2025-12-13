@@ -1,4 +1,4 @@
-# ![](./Images/GitHub.png) &nbsp;&nbsp;   WEBSERVER
+# ![](./Images/Github.png) &nbsp;&nbsp;   WEBSERVER
 
 ## Simple file-sharing  `Webserver` for `Windows` or `Linux`
 
@@ -59,7 +59,7 @@ This script uses only two external packages (not part of Python’s standard lib
 
 # Screenshots
 
-![](./Images/ScreenShot.png)
+![](./Images/Screenshot.png)
 (*Ip Adresses hidden in the capture*)
 
 # Stopping the Server
