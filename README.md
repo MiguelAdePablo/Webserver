@@ -11,7 +11,9 @@ This application creates a local HTTP server with a sleek, modern GUI, allowing 
     📦 WebServer.py: - Main Python script (fully in English)
     📦 WebServer - Spanish.py: - Python script (translate to Spanish)
     📦 Readme.md: - This documentation file.
-    📁 Images/ - This documentation file
+    📁 Images/ - Assets for README (logo, screenshot)
+       ├ 📦 Github.png
+       └ 📦 Screenshot.png
 
 # Features
 
@@ -60,6 +62,7 @@ This script uses only two external packages (not part of Python’s standard lib
 # Screenshots
 
 ![](./Images/Screenshot.png)
+
 (*Ip Adresses hidden in the capture*)
 
 # Stopping the Server
