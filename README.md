@@ -1,4 +1,4 @@
-# ![](./Images/Github.png) &nbsp;&nbsp;   WEBSERVER
+# ![](./Images/Github.png) &nbsp;&nbsp;  🌍 Webserver
 
 ## Simple file-sharing  `Webserver` for `Windows` or `Linux`
 
