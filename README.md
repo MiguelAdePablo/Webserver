@@ -99,8 +99,8 @@ Found a bug? Have a feature idea?
 
 # 🌐 Useful Links
 
-- [Apps Index (under construction)](https://github.com/MiguelAdePablo/apps)
-- [General Index (under construcion)](https://github.com/MiguelAdePablo/Index)
+- [Apps Index](https://github.com/MiguelAdePablo/apps)
+- [General Index](https://github.com/MiguelAdePablo/Index)
 
 
 
